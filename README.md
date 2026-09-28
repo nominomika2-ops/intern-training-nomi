@@ -2,8 +2,6 @@
 
 My name is tom
 Updated README for practice
-
-notepad README.md
-
+my-practice-branch
 This is my practice change.
-
+This is my git branch practice
