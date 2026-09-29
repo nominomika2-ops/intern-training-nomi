@@ -7,3 +7,5 @@ notepad README.md
 
 This is my practice change.
 
+Commit practice
+
