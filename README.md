@@ -1,4 +1,4 @@
-# intern-training-nomi
+# Branch A Practice
 
 My name is tom
 Updated README for practice
