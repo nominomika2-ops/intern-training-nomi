@@ -6,3 +6,4 @@ my-practice-branch
 This is my practice change.
 This is my git branch practice
 Practice change
+Git commit messages should clearly describe the change.
