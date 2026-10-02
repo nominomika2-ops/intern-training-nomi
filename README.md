@@ -7,3 +7,4 @@ This is my practice change.
 This is my git branch practice
 Practice change
 Git commit messages should clearly describe the change.
+Today I practiced creating a new Git branch.
